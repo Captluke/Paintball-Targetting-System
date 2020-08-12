@@ -1,0 +1,12 @@
+E:\Visual Basic Project\Marker Counter\bin\Debug\Marker Counter.exe.config
+E:\Visual Basic Project\Marker Counter\bin\Debug\Marker Counter.exe
+E:\Visual Basic Project\Marker Counter\bin\Debug\Marker Counter.pdb
+E:\Visual Basic Project\Marker Counter\bin\Debug\Marker Counter.xml
+E:\Visual Basic Project\Marker Counter\obj\Debug\Marker Counter.vbprojAssemblyReference.cache
+E:\Visual Basic Project\Marker Counter\obj\Debug\Marker_Counter.Form1.resources
+E:\Visual Basic Project\Marker Counter\obj\Debug\Marker_Counter.Resources.resources
+E:\Visual Basic Project\Marker Counter\obj\Debug\Marker Counter.vbproj.GenerateResource.cache
+E:\Visual Basic Project\Marker Counter\obj\Debug\Marker Counter.vbproj.CoreCompileInputs.cache
+E:\Visual Basic Project\Marker Counter\obj\Debug\Marker Counter.exe
+E:\Visual Basic Project\Marker Counter\obj\Debug\Marker Counter.xml
+E:\Visual Basic Project\Marker Counter\obj\Debug\Marker Counter.pdb

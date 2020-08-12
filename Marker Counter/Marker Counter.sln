@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30406.217
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "Marker Counter", "Marker Counter.vbproj", "{47661DC2-DD14-4DBA-BBD3-EAC96716A017}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{47661DC2-DD14-4DBA-BBD3-EAC96716A017}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{47661DC2-DD14-4DBA-BBD3-EAC96716A017}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{47661DC2-DD14-4DBA-BBD3-EAC96716A017}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{47661DC2-DD14-4DBA-BBD3-EAC96716A017}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7EE7B194-D8BF-4EA8-80DE-1135AB570203}
+	EndGlobalSection
+EndGlobal
